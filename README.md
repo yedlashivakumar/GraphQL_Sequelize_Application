@@ -1,6 +1,3 @@
-Sure! Here is a **README.md** file tailored for your project:
-
----
 
 # GraphQL Sequelize Application
 
